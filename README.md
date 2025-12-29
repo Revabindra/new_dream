@@ -1,4 +1,4 @@
-## StaySphere is a full-stack real estate web application where users can list properties, browse homes, book stays and manage listings securely.##
+## StaySphere is a full-stack real estate web application where users can list properties, browse homes, book stays and manage listings securely.
 
 ## Features
 User authentication with JWT
