@@ -18,6 +18,7 @@ app.use("/auth", authRoutes)
 app.use("/properties", listingRoutes)
 app.use("/bookings", bookingRoutes)
 app.use("/users", userRoutes)
+console.log("Mongo:", process.env.MONGO_URL);
 
 /* MONGOOSE SETUP */
 const PORT = 3001;
